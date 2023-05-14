@@ -1,0 +1,962 @@
+[
+  {
+    "lat": 35.6737039,
+    "lng": 51.520322,
+    "city": "Shahran"
+  },
+  {
+    "lat": 35.7371227,
+    "lng": 51.8172149,
+    "city": "Pardis"
+  },
+  {
+    "lat": 35.7749162,
+    "lng": 51.3102689,
+    "city": "Shahrake Qods"
+  },
+  {
+    "lat": 36.06,
+    "lng": 14.20889,
+    "city": "Shahrake Gharb"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 33.468304,
+    "lng": 50.2491691,
+    "city": "Andisheh"
+  },
+  {
+    "lat": 32.66367,
+    "lng": -116.27363,
+    "city": "West Ferdows Boulevard"
+  },
+  {
+    "lat": 34.0230481,
+    "lng": 58.1646077,
+    "city": "Narmak"
+  },
+  {
+    "lat": 29.4972462,
+    "lng": 52.2458117,
+    "city": "Saadat Abad"
+  },
+  {
+    "lat": 33.8974554,
+    "lng": 48.764602,
+    "city": "Zafar"
+  },
+  {
+    "lat": 35.5478513,
+    "lng": 51.2318676,
+    "city": "Islamshahr"
+  },
+  {
+    "lat": 33.890332,
+    "lng": 48.7627407,
+    "city": "Pirouzi"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 35.6811307,
+    "lng": 51.401641,
+    "city": "Moniriyeh"
+  },
+  {
+    "lat": 35.8066647,
+    "lng": 51.4013931,
+    "city": "Velenjak"
+  },
+  {
+    "lat": 35.6781799,
+    "lng": 51.400731,
+    "city": "Amirieh"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 30.2687508,
+    "lng": 57.1051311,
+    "city": "Salsabil"
+  },
+  {
+    "lat": 35.7732674,
+    "lng": 51.4329527,
+    "city": "Zargandeh"
+  },
+  {
+    "lat": 45.7747,
+    "lng": -86.5507,
+    "city": "Feiz Garden"
+  },
+  {
+    "lat": 35.7164354,
+    "lng": 51.396155,
+    "city": "Water Organization"
+  },
+  {
+    "lat": 36.6327956,
+    "lng": 51.4067749,
+    "city": "ShahrAra"
+  },
+  {
+    "lat": 35.7364739,
+    "lng": 51.3771485,
+    "city": "Gisha"
+  },
+  {
+    "lat": 35.5989911,
+    "lng": 51.4357865,
+    "city": "Ray"
+  },
+  {
+    "lat": 33.0584592,
+    "lng": 59.4050445,
+    "city": "Abbasabad"
+  },
+  {
+    "lat": 35.7001565,
+    "lng": 51.3447089,
+    "city": "Ostad Moein"
+  },
+  {
+    "lat": 35.7961378,
+    "lng": 51.4710658,
+    "city": "Farmanieh"
+  },
+  {
+    "lat": 35.477882,
+    "lng": 50.9469189,
+    "city": "Parand"
+  },
+  {
+    "lat": 35.7675414,
+    "lng": 51.3303867,
+    "city": "Punak"
+  },
+  {
+    "lat": 29.6555,
+    "lng": 52.4791,
+    "city": "Qasr-od-Dasht"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 35.4784573,
+    "lng": 51.6824624,
+    "city": "Pakdasht"
+  },
+  {
+    "lat": 35.5527757,
+    "lng": 53.4048474,
+    "city": "Railway"
+  },
+  {
+    "lat": 35.7592656,
+    "lng": 51.3042107,
+    "city": "Central Janatabad"
+  },
+  {
+    "lat": 38.029001,
+    "lng": 46.3738221,
+    "city": "East Ferdows Boulevard"
+  },
+  {
+    "lat": 35.4967354,
+    "lng": 51.6598481,
+    "city": "Pakdasht KhatunAbad"
+  },
+  {
+    "lat": 38.8318382,
+    "lng": 45.0341422,
+    "city": "Sattarkhan"
+  },
+  {
+    "lat": 37.7095339,
+    "lng": 45.0916366,
+    "city": "Baghestan"
+  },
+  {
+    "lat": 32.6941276,
+    "lng": 51.6601568,
+    "city": "Shahryar"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 62.0,
+    "lng": 10.0,
+    "city": "Daryan No"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 37.77306,
+    "lng": 42.09083,
+    "city": "West Pars"
+  },
+  {
+    "lat": 35.6523159,
+    "lng": 51.4930224,
+    "city": "Afsarieh"
+  },
+  {
+    "lat": 38.044412,
+    "lng": 46.4018738,
+    "city": "Marzdaran"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 35.6375846,
+    "lng": 51.3504511,
+    "city": "Sadeghieh"
+  },
+  {
+    "lat": 35.6067482,
+    "lng": 51.3100612,
+    "city": "Chahardangeh"
+  },
+  {
+    "lat": 35.5338489,
+    "lng": 51.4053842,
+    "city": "Baqershahr"
+  },
+  {
+    "lat": 37.3024146,
+    "lng": 49.5496873,
+    "city": "Jeyhoon"
+  },
+  {
+    "lat": 35.7770552,
+    "lng": 51.5021499,
+    "city": "Lavizan"
+  },
+  {
+    "lat": 29.9642239,
+    "lng": 52.8529862,
+    "city": "Shams Abad"
+  },
+  {
+    "lat": 35.7184219,
+    "lng": 51.3895614,
+    "city": "Fatemi"
+  },
+  {
+    "lat": 33.992791,
+    "lng": 51.4274779,
+    "city": "Keshavarz Boulevard"
+  },
+  {
+    "lat": 35.517323,
+    "lng": 51.3618852,
+    "city": "Kahrizak"
+  },
+  {
+    "lat": 35.4421824,
+    "lng": 51.5697005,
+    "city": "Qarchak"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 37.0,
+    "lng": 46.0,
+    "city": "Azarbaijan"
+  },
+  {
+    "lat": 36.4040024,
+    "lng": 59.6084489,
+    "city": "Bahar"
+  },
+  {
+    "lat": -1.91667,
+    "lng": 31.25,
+    "city": "Persian Gulf Martyrs Lake"
+  },
+  {
+    "lat": 29.8478996,
+    "lng": 52.9763454,
+    "city": "Beryanak"
+  },
+  {
+    "lat": 35.7264682,
+    "lng": 51.4502086,
+    "city": "Heshmatieh"
+  },
+  {
+    "lat": 35.7412446,
+    "lng": 51.5092195,
+    "city": "Elm-o-Sanat"
+  },
+  {
+    "lat": 37.1984436,
+    "lng": 55.070672,
+    "city": "Golestan"
+  },
+  {
+    "lat": 27.35134,
+    "lng": 35.69014,
+    "city": "Shahr-e-Ziba"
+  },
+  {
+    "lat": 29.6261456,
+    "lng": 52.4827192,
+    "city": "Pasdaran"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 28.9161336,
+    "lng": 58.6730215,
+    "city": "Kamranieh"
+  },
+  {
+    "lat": 35.7728779,
+    "lng": 51.4381024,
+    "city": "Gholhak"
+  },
+  {
+    "lat": 35.7720416,
+    "lng": 51.4731866,
+    "city": "Heravi"
+  },
+  {
+    "lat": 35.6846963,
+    "lng": 51.3593942,
+    "city": "Hashemi"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 35.9549208,
+    "lng": 52.1096123,
+    "city": "Damavand"
+  },
+  {
+    "lat": 43.308723,
+    "lng": 44.088177,
+    "city": "Republic"
+  },
+  {
+    "lat": 35.8076813,
+    "lng": 51.4163789,
+    "city": "Zaferanieh"
+  },
+  {
+    "lat": 13.00715,
+    "lng": 76.0962,
+    "city": "Qazvin Imamzadeh Hassan"
+  },
+  {
+    "lat": 35.8160561,
+    "lng": 51.4709472,
+    "city": "Niavaran"
+  },
+  {
+    "lat": 34.0336787,
+    "lng": 58.1879287,
+    "city": "Valiasr"
+  },
+  {
+    "lat": 35.7898688,
+    "lng": 51.4424705,
+    "city": "Qalandari"
+  },
+  {
+    "lat": 35.6711496,
+    "lng": 51.4036211,
+    "city": "Amir Bahador"
+  },
+  {
+    "lat": 35.7863456,
+    "lng": 51.4611775,
+    "city": "Ekhtiarieh"
+  },
+  {
+    "lat": 35.7069661,
+    "lng": 51.3056201,
+    "city": "Ekbatan"
+  },
+  {
+    "lat": 35.6231852,
+    "lng": 52.1528132,
+    "city": "Absard"
+  },
+  {
+    "lat": 36.3208914,
+    "lng": 59.4957693,
+    "city": "Haft Tir"
+  },
+  {
+    "lat": 38.0494921,
+    "lng": 46.3551571,
+    "city": "Mahallati"
+  },
+  {
+    "lat": 35.7947191,
+    "lng": 51.5006754,
+    "city": "Ozgol"
+  },
+  {
+    "lat": 35.8035771,
+    "lng": 51.428302,
+    "city": "Tajrish"
+  },
+  {
+    "lat": 32.6251671,
+    "lng": 51.6826459,
+    "city": "Abazar"
+  },
+  {
+    "lat": 35.8144372,
+    "lng": 51.4154622,
+    "city": "Koohsar"
+  },
+  {
+    "lat": 35.8008836,
+    "lng": 51.4459459,
+    "city": "Hekmat"
+  },
+  {
+    "lat": 35.6883581,
+    "lng": 51.4837882,
+    "city": "Parastar"
+  },
+  {
+    "lat": 35.8204845,
+    "lng": 51.6321444,
+    "city": "Lavasan"
+  },
+  {
+    "lat": 35.7357141,
+    "lng": 51.4656043,
+    "city": "Majidieh"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 29.6195291,
+    "lng": 52.5407804,
+    "city": "Karimkhan"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 31.2397079,
+    "lng": 48.6563167,
+    "city": "Karoon"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 38.0503216,
+    "lng": 46.2915628,
+    "city": "East Pars"
+  },
+  {
+    "lat": 35.7812574,
+    "lng": 51.4493246,
+    "city": "Kook"
+  },
+  {
+    "lat": 48.03333,
+    "lng": -0.7,
+    "city": "Air force"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 35.6805059,
+    "lng": 51.362745,
+    "city": "Komeil"
+  },
+  {
+    "lat": 37.0875125,
+    "lng": 55.1725639,
+    "city": "Azadshahr"
+  },
+  {
+    "lat": 35.7523909,
+    "lng": 51.2613119,
+    "city": "Zibadasht"
+  },
+  {
+    "lat": 37.6158445,
+    "lng": 47.8717435,
+    "city": "Amirabad"
+  },
+  {
+    "lat": 35.8091055,
+    "lng": 51.4553023,
+    "city": "Dezashib"
+  },
+  {
+    "lat": 35.7898612,
+    "lng": 51.4262023,
+    "city": "Elahieh"
+  },
+  {
+    "lat": 35.7601006,
+    "lng": 51.4339605,
+    "city": "Mirdamad"
+  },
+  {
+    "lat": 38.4887757,
+    "lng": 44.3415821,
+    "city": "Razi"
+  },
+  {
+    "lat": 31.0,
+    "lng": 36.0,
+    "city": "Jordan"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 35.5735353,
+    "lng": 51.0868332,
+    "city": "Shahedshahr"
+  },
+  {
+    "lat": 33.5726096,
+    "lng": 52.4093026,
+    "city": "Yaftabad"
+  },
+  {
+    "lat": 33.1236709,
+    "lng": 46.1667015,
+    "city": "Mehran"
+  },
+  {
+    "lat": 36.2859112,
+    "lng": 50.0046227,
+    "city": "Nasim Shahr"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 36.1252749,
+    "lng": 50.5310841,
+    "city": "Fallah"
+  },
+  {
+    "lat": 35.6886157,
+    "lng": 51.3813448,
+    "city": "Eskandari"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 35.8055509,
+    "lng": 51.480843,
+    "city": "Ajudaniye"
+  },
+  {
+    "lat": 35.6942692,
+    "lng": 51.2558471,
+    "city": "Tehransar"
+  },
+  {
+    "lat": 33.9091716,
+    "lng": 48.7277881,
+    "city": "Nawab"
+  },
+  {
+    "lat": 35.7346597,
+    "lng": 51.4045663,
+    "city": "Yousef Abad"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": -31.4114301,
+    "lng": -64.4848241,
+    "city": "Villa"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 34.4843,
+    "lng": 47.0532,
+    "city": "Nezamabad"
+  },
+  {
+    "lat": 29.636067,
+    "lng": 52.523578,
+    "city": "Garden of Saba"
+  },
+  {
+    "lat": 35.7160834,
+    "lng": 51.3435808,
+    "city": "Tarasht"
+  },
+  {
+    "lat": 35.6671035,
+    "lng": 51.3507428,
+    "city": "Azari"
+  },
+  {
+    "lat": 37.7992265,
+    "lng": 48.9088627,
+    "city": "Shahrake Apadana"
+  },
+  {
+    "lat": 35.795851,
+    "lng": 51.4887161,
+    "city": "Araj"
+  },
+  {
+    "lat": 35.6062379,
+    "lng": 51.0263766,
+    "city": "Vahidieh"
+  },
+  {
+    "lat": 35.666763,
+    "lng": 50.9790423,
+    "city": "Malard"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 37.1737873,
+    "lng": 45.2976987,
+    "city": "Darband"
+  },
+  {
+    "lat": 31.5280386,
+    "lng": 51.3237006,
+    "city": "Vanak"
+  },
+  {
+    "lat": 35.6691088,
+    "lng": 51.4205696,
+    "city": "Tehran Now"
+  },
+  {
+    "lat": 37.3363889,
+    "lng": 55.5741667,
+    "city": "Darabad"
+  },
+  {
+    "lat": 29.6356223,
+    "lng": 52.5256592,
+    "city": "Eram"
+  },
+  {
+    "lat": 35.9588,
+    "lng": 45.761,
+    "city": "Atabak"
+  },
+  {
+    "lat": 38.2669323,
+    "lng": 47.8368019,
+    "city": "Sabalan"
+  },
+  {
+    "lat": 35.5824779,
+    "lng": 51.1130446,
+    "city": "SabaShahr"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 30.972987,
+    "lng": 51.477403,
+    "city": "Waterfall"
+  },
+  {
+    "lat": 34.3383584,
+    "lng": 58.2629752,
+    "city": "Ahang"
+  },
+  {
+    "lat": 36.1686053,
+    "lng": 46.7928304,
+    "city": "Salehabad"
+  },
+  {
+    "lat": 35.3095551,
+    "lng": 51.7397885,
+    "city": "Pishva"
+  },
+  {
+    "lat": 35.5798805,
+    "lng": 53.3760394,
+    "city": "Enghelab"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 35.7648302,
+    "lng": 51.4512161,
+    "city": "Ghoba"
+  },
+  {
+    "lat": 34.1748517,
+    "lng": 47.7481875,
+    "city": "Mehrabad"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 37.5766138,
+    "lng": 45.0814608,
+    "city": "Abuzar"
+  },
+  {
+    "lat": 36.4371492,
+    "lng": 59.1666169,
+    "city": "Dolatabad"
+  },
+  {
+    "lat": 31.8718426,
+    "lng": 54.3079605,
+    "city": "Hor Square"
+  },
+  {
+    "lat": 35.7195274,
+    "lng": 51.4727538,
+    "city": "Taslihat"
+  },
+  {
+    "lat": 33.9755736,
+    "lng": 47.9264837,
+    "city": "Kazemabad"
+  },
+  {
+    "lat": 35.4850737,
+    "lng": 51.0841778,
+    "city": "Robat Karim"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 35.3136709,
+    "lng": 46.9965247,
+    "city": "Telecommunication"
+  },
+  {
+    "lat": 35.7281781,
+    "lng": 51.4169344,
+    "city": "Mirza Shirazi"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": -31.4114301,
+    "lng": -64.4848241,
+    "city": "Argentina"
+  },
+  {
+    "lat": 35.7470497,
+    "lng": 51.443004,
+    "city": "Seyed Khandan"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 35.692438,
+    "lng": 50.8482841,
+    "city": "Safadasht"
+  },
+  {
+    "lat": 45.7747,
+    "lng": -86.5507,
+    "city": "Khademabad Garden"
+  },
+  {
+    "lat": 29.938808,
+    "lng": 52.5686609,
+    "city": "Hassan Abad"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 28.937829,
+    "lng": 53.3147706,
+    "city": "Khavaran"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 51.14217,
+    "lng": 1.2745,
+    "city": "Mehrabad River River"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 35.6572974,
+    "lng": 51.4142116,
+    "city": "Shoosh"
+  },
+  {
+    "lat": null,
+    "lng": null,
+    "city": null
+  },
+  {
+    "lat": 35.8043457,
+    "lng": 51.3827097,
+    "city": "Darakeh"
+  },
+  {
+    "lat": 6.66667,
+    "lng": 2.25,
+    "city": "Aliabad South"
+  },
+  {
+    "lat": 35.7222054,
+    "lng": 50.9759231,
+    "city": "Alborz Complex"
+  },
+  {
+    "lat": 35.8120389,
+    "lng": 51.4168754,
+    "city": "Firoozkooh"
+  },
+  {
+    "lat": 36.664428,
+    "lng": 48.5086565,
+    "city": "Vahidiyeh"
+  },
+  {
+    "lat": 33.6316826,
+    "lng": 46.4136186,
+    "city": "Shadabad"
+  },
+  {
+    "lat": 35.6535,
+    "lng": 51.3857,
+    "city": "Naziabad"
+  },
+  {
+    "lat": 35.5898309,
+    "lng": 59.1238983,
+    "city": "Javadiyeh"
+  },
+  {
+    "lat": 35.6218,
+    "lng": 51.4052,
+    "city": "Yakhchiabad"
+  }
+]
